@@ -24,3 +24,5 @@ WHERE sex = 'male'
 UPDATE medical_insurance
 SET sex = 'Feminino'
 WHERE sex = 'female'
+
+--uma tabela de seguro de vidas que eu achei no Kaggles e achei interresante trázer algumas curiosidades
